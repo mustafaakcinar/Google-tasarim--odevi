@@ -1,0 +1,2 @@
+# CSS bölüm sonu çalışmaları #
+CSS bölüm sonu google 98 sayfa tasarımı ödevi yapılmıştır. Şimdiye kadar kullandığımız bütün yapılardan faydalanılmaya çalışılmıştır. Buton ve metin kutuları daha görmediğim için çalışmamaktadır.
